@@ -144,6 +144,13 @@
         "hungry"
       ],
       "id": "14"
+    },
+    {
+      "name": "asdasd",
+      "species": "asdasd",
+      "diet": "herbivore",
+      "personalityTraits": [],
+      "id": "15"
     }
   ]
 }
